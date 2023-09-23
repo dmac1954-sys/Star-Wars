@@ -1,6 +1,6 @@
 import csv
 import sys
-from star_wars_lib import Character
+from star_wars_lib import Character 
 
 
 def main():
